@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "927014857666",
+    "firebase_url": "https://medico-ec45b-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "medico-ec45b",
+    "storage_bucket": "medico-ec45b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927014857666:android:603dc0e0ca3f996d77845b",
+        "android_client_info": {
+          "package_name": "com.example.gestionmedico"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF6oOpO_xrvKXfZUTTj-atpXbdsvAlfKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
